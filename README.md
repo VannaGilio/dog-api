@@ -1,4 +1,4 @@
-﻿﻿﻿## DOG API
+## DOG API
 
 ![](./img/image%20(4).png)
 
